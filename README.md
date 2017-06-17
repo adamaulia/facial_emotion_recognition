@@ -11,3 +11,14 @@ Dependency
 - Keras
 - Tensorflow
 - Opencv
+
+for keras model you can download here
+https://drive.google.com/file/d/0B6yZu81NrMhSV2ozYWZrenJXd1E/view?usp=sharing 
+and put in keras_model file
+
+How to use
+- realtime facial emotion recognition 
+python realtime_facial_expression.py 
+- image test 
+python image_test.py tes.jpg
+
