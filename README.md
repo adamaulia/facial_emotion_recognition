@@ -24,3 +24,5 @@ python image_test.py tes.jpg
 
 image testing example 
 <img src="https://github.com/adamaulia/facial_emotion_recognition/blob/master/result.jpg" alt="alt text" align="middle"/>
+
+np : best accuracy so far is 62%
